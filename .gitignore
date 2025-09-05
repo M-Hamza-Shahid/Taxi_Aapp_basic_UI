@@ -1,0 +1,37 @@
+# Android
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradle/wrapper/gradle-wrapper.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/**/android/**/*.class
+
+# iOS
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/.symlinks/
+**/ios/Pods/
+
+# Flutter
+**/flutter/**/*.lockfile
+**/flutter/**/Generated.xcconfig
+**/flutter/**/generated_plugin_registrant.*
+
+# IDEA
+**/.idea/
+**/*.iml
+
+# VS Code
+**/.vscode/
+
+# Directories
+**/build/
+**/doc/api/
+**/.dart_tool/
+*.swp
+*.swo
+*~
